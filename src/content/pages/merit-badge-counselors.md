@@ -132,7 +132,7 @@ Are you wanting to complete a specific merit badge, but don't know who to ask? W
 |Small Boat Sailing|Eric Koldinger|No
 |Snow Sports|Joel Ritenour|No
 |Soil and Water Conservation|Emma Rawnsley|No
-|Space Exploration|Eric Koldinger
+|Space Exploration|Eric Koldinger|No
 |Sports|Nate Hoffman|No
 |Stamp Collecting|No Counselor|No
 |Surveying|No Counselor|No
