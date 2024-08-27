@@ -153,8 +153,8 @@ Are you wanting to complete a specific merit badge, but don't know who to ask? W
 
 
 
-*For Emergency Preparedness and Lifesaving, are both Eagle Required, but you only Have to do one of them. (But we would rather you do both).
+*Emergency Preparedness and Lifesaving are both Eagle Required, but you only Have to do one of them. 
 
-*For Environmental Science and Sustainabillity, they are both Eagle Required, but you only have to do one of them. (But we would rather you do both).
+*Environmental Science and Sustainability are both Eagle Required, but you only have to do one of them.
 
-*For Swimming, Hiking, and Cycling, they are all Eagle Required, but you only have to do one of them. (But we would rather you do all three of them).
+*Swimming, Hiking, and Cycling are all Eagle Required, but you only have to do one of them.
