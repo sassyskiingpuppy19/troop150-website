@@ -5,16 +5,18 @@ const Button = ({
   link,
   style,
   rel,
+  open_in_new_tab,
 }: {
   label: string;
   link: string;
   style?: string;
   rel?: string;
+  open_in_new_tab?: boolean;
 }) => {
   return (
     <a
       href={link}
-      target="_blank"
+      target={open_in_new_tab ? "_blank" : undefined}
       rel={`noopener noreferrer ${
         rel ? (rel === "follow" ? "" : rel) : "nofollow"
       }`}
