@@ -6,8 +6,7 @@ draft: false
 
 ### Clothing
 
- - Full Class “A” Scout Uniform, Hat,Troop T-Shirt & 
- Sweatshirt
+ - Full Class “A” Scout Uniform, Hat, Troop T-Shirt & Sweatshirt
  
  - OA Sash (for OA members)
  
@@ -15,15 +14,15 @@ draft: false
  
  - Hawaiian Shirt (in camp dinner)
  
- - 1-2 pair of  short pants
+ - 1-2 pair of short pants
  
- - 1-2 par of long pants
+ - 1-2 pair of long pants
  
  - Jacket/Sweater
  
  - Poncho/Rain Gear
  
- -  Pajamas
+ - Pajamas
  
  - T-shirts (4 or more)
  
@@ -43,7 +42,7 @@ draft: false
  
  - Handkerchief
  
- - Watch (Not your Apple Watch)
+ - Watch (No Smart Watches)
  
  - Work Gloves
 
@@ -74,12 +73,30 @@ draft: false
  - Insect repellent
 
  - Sunblock/Chapstick
+ 
+ ### Merit Badge Items
+ 
+ - Scout Handbook
+
+ - Pen/Pencil/Notepad
+ 
+ - Unfinished partials (blue cards)
+ 
+ - Merit badge pamphlets
+### Merit Badge Items
+ - Scout Handbook
+
+ - Pen/Pencil/ Notepad
+ 
+ - Unfinished partials (blue cards)
+ 
+ - Merit badge pamphlets
 
 ### Suggested Items
 
  - Ground Cloth
 
- - Musical instrument (NO radios)
+ - Musical instrument (No radios)
 
  - Sunglasses
 
@@ -90,15 +107,6 @@ draft: false
  - Folding Chair
 
  - Spending money
-
-### Merit Badge Items
- - Scout Handbook
-
- - Pen/Pencil/ Notepad
- 
- - Unfinished partials (blue cards)
- 
- - Merit badge pamphlets
 
 ### DO NOT BRING
 Expensive Cameras, one-time use cameras with your name and address written on them are suggested. Radios, MP3, Game Players, or other such items to camp.  Cell Phones will not be allowed at Camp.  No Open Toed Shoes!
