@@ -3,7 +3,7 @@ title: "Backpacking Checklist"
 description: "this is meta description"
 draft: false
 --- ### Core Backpacking Needs
-Pack with padded hip belt
+ Pack with padded hip belt
 
  Waterproof Pack cover – (REQUIRED)
 
@@ -26,7 +26,7 @@ Pack with padded hip belt
  [10 essentials](/the-ten-essentials)
  ### Clothing (hiking apparel)
 
- Hiking boot (well broken in)
+ Hiking boots (well broken in)
 
  1 pair of “In-camp” light weight shoes (quick drying)
 
@@ -87,5 +87,5 @@ Pack with padded hip belt
 
  Camera (one-time use cameras best with your name)
 
- DO NOT bring an expensive cameras, cell phone,  or electronic games.
+ DO NOT bring: an expensive camera(s), cell phone,  or electronic games.
 
