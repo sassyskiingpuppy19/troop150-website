@@ -83,14 +83,6 @@ draft: false
  - Unfinished partials (blue cards)
  
  - Merit badge pamphlets
-### Merit Badge Items
- - Scout Handbook
-
- - Pen/Pencil/ Notepad
- 
- - Unfinished partials (blue cards)
- 
- - Merit badge pamphlets
 
 ### Suggested Items
 
