@@ -1,5 +1,5 @@
 ---
-title: "The ten essentials"
+title: "The Ten Essentials"
 description: "this is meta description"
 draft: false
 ---
