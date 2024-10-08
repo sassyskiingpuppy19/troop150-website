@@ -22,7 +22,8 @@ Pack with padded hip belt
  Sleeping Pad (closed cell/thermarest recommended)
 
  Sleeping clothing (worn ONLY in the sleeping bag)
-
+ 
+ [10 essentials](/the-ten-essentials)
  ### Clothing (hiking apparel)
 
  Hiking boot (well broken in)
@@ -51,7 +52,7 @@ Pack with padded hip belt
  ### Layer “4” (for cold and wet conditions)
   1 rain pants & jacket (REQUIRED)
 
- ### Personal Items (not required):
+ ### Personal Items (not required)
  Remember, you are the one who will carry it (in AND out)
 
  Toothbrush & paste
@@ -88,23 +89,3 @@ Pack with padded hip belt
 
  DO NOT bring an expensive cameras, cell phone,  or electronic games.
 
- ### The 10 Essentials
- 1. fire starter & matches
-
- 2. map & compass
-
- 3. water bottle (2 liters)
-
- 4. first aid kit
-
- 5. pocket knife
-
- 6. flashlight
-
- 7. extra food
-
- 8. extra clothing
-
- 9. rain gear
-
- 10. sun protection
