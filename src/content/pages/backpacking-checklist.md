@@ -26,7 +26,7 @@ draft: false
  * Sleeping clothing (Worn only in the sleeping bag)
  
  * [10 essentials](/the-ten-essentials)
- ### Clothing (Hiking Apparel)
+### Clothing (Hiking Apparel)
 
  * Hiking boots (Well broken in)
 
@@ -44,24 +44,24 @@ draft: false
 
  * 1 hat for sun protection (Baseball-type cap with brim)
 
-  ### Layer “2” (for cool evenings)
+### Layer “2” (for cool evenings)
  * 1 long sleeve shirt (Fleece or wool)
 
  * 1 pair of long pants (No jeans or cotton denim)
   
  * 1 pair, top and bottom, insulated underwear (No cotton)
 
- ### Layer “3” (for cold but dry conditions)
+### Layer “3” (for cold but dry conditions)
  * 1 fleece jacket
 
  * 1 stocking cap (Fleece or wool)
   
  * 1 pair of light gloves (Polypropolyne or synthetic)
 
- ### Layer “4” (for cold and wet conditions)
+### Layer “4” (for cold and wet conditions)
  * 1 rain pants & jacket (REQUIRED)
 
- ### Personal Items (not required)
+### Personal Items (not required)
 
  * Toothbrush & paste
 
@@ -95,7 +95,7 @@ draft: false
 
  * Camera (One-time use cameras best with your name)
 
- ### Do Not Bring
+### Do Not Bring
  
  * an expensive camera(s)
  
