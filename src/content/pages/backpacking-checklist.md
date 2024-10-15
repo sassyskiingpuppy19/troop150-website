@@ -2,7 +2,9 @@
 title: "Backpacking Checklist"
 description: "this is meta description"
 draft: false
---- ### Core Backpacking Needs
+---
+
+### Core Backpacking Needs
  * Padded hip belt
 
  * Waterproof Pack cover (REQUIRED)
