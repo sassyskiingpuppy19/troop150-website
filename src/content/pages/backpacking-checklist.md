@@ -32,29 +32,29 @@ draft: false
 
  * 3 pairs of hiking socks and inner liners
  
-  * 2 pairs of undershorts
+ * 2 pairs of undershorts
 
-  * 2 pairs of hiking shorts
+ * 2 pairs of hiking shorts
 
-  * 1 long sleeve shirt (Not cotton)
+ * 1 long sleeve shirt (Not cotton)
 
-  * 2 short sleeve shirts (Not cotton)
+ * 2 short sleeve shirts (Not cotton)
 
-  * 1 hat for sun protection (Baseball-type cap with brim)
+ * 1 hat for sun protection (Baseball-type cap with brim)
 
   ### Layer “2” (for cool evenings)
-  * 1 long sleeve shirt (Fleece or wool)
+ * 1 long sleeve shirt (Fleece or wool)
 
-  * 1 pair of long pants (No jeans or cotton denim)
+ * 1 pair of long pants (No jeans or cotton denim)
   
-  * 1 pair, top and bottom, insulated underwear (No cotton)
+ * 1 pair, top and bottom, insulated underwear (No cotton)
 
  ### Layer “3” (for cold but dry conditions)
-  * 1 fleece jacket
+ * 1 fleece jacket
 
-  * 1 stocking cap (Fleece or wool)
+ * 1 stocking cap (Fleece or wool)
   
-  * 1 pair of light gloves (Polypropolyne or synthetic)
+ * 1 pair of light gloves (Polypropolyne or synthetic)
 
  ### Layer “4” (for cold and wet conditions)
  * 1 rain pants & jacket (REQUIRED)
