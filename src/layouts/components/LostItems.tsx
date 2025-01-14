@@ -3,6 +3,7 @@ import React, { useEffect, useState } from 'react';
 interface Item {
   fname: string,
   description: string,
+  location: string,
 }
 
 const LostItems = () => {
@@ -21,6 +22,7 @@ const LostItems = () => {
     {items.map(item => <li>
       <p>Name: {item.fname}</p>
       <p>Description: {item.description}</p>
+      <p>Place it was found: {item.location}</p>
     </li>)}
   </ul>;
 }

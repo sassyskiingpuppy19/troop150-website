@@ -1,15 +1,18 @@
 ---
-title: "Submit"
+title: "Lost & Found"
 description: "this is meta description"
 draft: false
 ---
-
+This lost & found is here to help. If you found something please put the objects name and its descriptions in the boxs. In the description box, don't forget to put where you found this object, what time you found it and the date.  (Please only put items that you found at a Troop 150 meeting or campout/group together.)
 <form action="/lost-n-found/items" method="post">
   <label for="fname">Object Name:</label><br/>
   <input type="text" id="fname" name="fname"/><br/>
 
   <label for="lname">Description:</label><br/>
   <input type="text" id="description" name="description"/><br/>
+
+  <label for="lname">Place it was found:</label><br/>
+  <input type="text" id="location" name="location"/><br/>
 
   <input type="submit" value="Submit" className="btn btn-primary"/>
 </form>
